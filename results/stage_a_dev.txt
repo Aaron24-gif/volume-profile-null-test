@@ -1,0 +1,29 @@
+XAU poc  touches  56769 (placebo  41741) days 1396 | real r30 +0.074 ATR  placebo +0.076  diff +0.037  t +0.44  
+XAU vah  touches  44887 (placebo  40267) days 1341 | real r30 -0.012 ATR  placebo +0.029  diff +0.040  t +0.40  
+XAU val  touches  44286 (placebo  39116) days 1327 | real r30 +0.021 ATR  placebo -0.034  diff +0.236  t +2.66  
+XAU phi  touches  29304 (placebo  26201) days 1120 | real r30 -0.109 ATR  placebo +0.011  diff +0.009  t +0.07  
+XAU plo  touches  24212 (placebo  24411) days 1087 | real r30 -0.116 ATR  placebo +0.031  diff +0.156  t +1.15  
+  XAU done in 31s
+
+NAS poc  touches   9849 (placebo   6651) days  552 | real r30 +0.082 ATR  placebo +0.079  diff +0.380  t +2.12  
+NAS vah  touches   8904 (placebo   6901) days  522 | real r30 +0.014 ATR  placebo +0.044  diff +0.082  t +0.46  
+NAS val  touches   7430 (placebo   6538) days  465 | real r30 -0.024 ATR  placebo +0.074  diff +0.079  t +0.42  
+NAS phi  touches   7737 (placebo   4736) days  344 | real r30 -0.025 ATR  placebo -0.025  diff +0.279  t +1.30  
+NAS plo  touches   5347 (placebo   4242) days  321 | real r30 -0.095 ATR  placebo -0.024  diff +0.272  t +1.40  
+  NAS done in 7s
+
+SPX poc  touches   9458 (placebo   6062) days  538 | real r30 -0.109 ATR  placebo +0.223  diff -0.319  t -1.71  
+SPX vah  touches   7957 (placebo   6163) days  501 | real r30 +0.030 ATR  placebo +0.212  diff +0.017  t +0.08  
+SPX val  touches   7514 (placebo   6071) days  476 | real r30 -0.134 ATR  placebo -0.121  diff +0.229  t +1.20  
+SPX phi  touches   6831 (placebo   4183) days  338 | real r30 -0.160 ATR  placebo +0.003  diff +0.381  t +1.47  
+SPX plo  touches   5422 (placebo   4191) days  336 | real r30 -0.155 ATR  placebo +0.199  diff -0.125  t -0.50  
+  SPX done in 6s
+
+DAX poc  touches  14556 (placebo   9683) days  778 | real r30 +0.002 ATR  placebo +0.137  diff -0.089  t -0.45  
+DAX vah  touches  12437 (placebo   9417) days  687 | real r30 -0.051 ATR  placebo -0.063  diff +0.180  t +1.09  
+DAX val  touches  10910 (placebo   9486) days  670 | real r30 +0.058 ATR  placebo -0.014  diff +0.446  t +2.69  
+DAX phi  touches   8152 (placebo   6427) days  473 | real r30 -0.208 ATR  placebo -0.091  diff +0.214  t +0.90  
+DAX plo  touches   6841 (placebo   5611) days  407 | real r30 +0.031 ATR  placebo +0.052  diff +0.066  t +0.33  
+  DAX done in 8s
+
+Stage A (development 2018-2022): 0 of 20 level x instrument tests clear |t| >= 3.0 on real-minus-placebo.

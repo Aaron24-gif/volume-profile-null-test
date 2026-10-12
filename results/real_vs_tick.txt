@@ -1,0 +1,8 @@
+60 RTH sessions compared (positions are fractions of the session range; NQ range median 386 pts)
+
+vs REAL volume          POC |diff|  POC within 5%  VAH |diff|  VAL |diff|  shape corr
+tick profile                 1.0%            73%       2.0%       2.5%       0.970
+time profile                 2.0%            60%       6.5%      12.5%       0.903
+
+tick vs time-only POC: median |diff| 0.0% of range, within 5%: 77%
+tick vs real POC in NQ points: median 4.4, 75th pct 21.2, 90th 111.8
